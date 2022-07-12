@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Rede](https://www.userede.com.br/)
 
-- 🌱 I’m currently learning **Golang,Kafka and DDD**
+- 🌱 I’m currently learning **Golang, Kafka and DDD**
 
 - 📫 How to reach me **brugnolovictor@gmail.com**
 
